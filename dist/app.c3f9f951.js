@@ -37700,9 +37700,6 @@ var Sketch = /*#__PURE__*/function () {
     this.controls = new OrbitControls(this.camera, this.renderer.domElement);
     this.time = 0;
     this.isPlaying = true;
-    this.gridSize = 1;
-    this.size = 70;
-    this.cellSize = this.gridSize / this.size;
     this.addObjects();
     this.resize();
     this.render();

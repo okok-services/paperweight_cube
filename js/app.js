@@ -34,10 +34,6 @@ export default class Sketch {
 
     this.isPlaying = true;
 
-    this.gridSize = 1;
-    this.size = 70;
-    this.cellSize = this.gridSize / this.size;
-
     this.addObjects();
     this.resize();
     this.render();
