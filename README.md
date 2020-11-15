@@ -2,4 +2,8 @@
 
 to run,
 
-`parcel index.html`
+`
+npm i
+
+and then:
+parcel index.html`
