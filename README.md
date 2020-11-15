@@ -2,8 +2,7 @@
 
 to run,
 
-`
-npm i
+`npm i`
 
-and then:
-parcel index.html`
+then:
+`parcel index.html`
